@@ -14,7 +14,7 @@
 > Setup dosyasını indiirp sunucunuzun içine atınız (WinSCP gibi bir program ile veya termius)
 
 ```console
-# komutlarımızı tek tek girelim
+# komutlarımızı tek tek girelim !!! DOCKER KURULU İSE BU KISMI YAPMAYIN !!!
 sudo apt install apt-transport-https ca-certificates curl software-properties-common
 
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
