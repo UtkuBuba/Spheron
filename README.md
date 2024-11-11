@@ -36,13 +36,13 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 ```console
 # dosya izinlerini verelim
-chmod +x /root/fizzup-v1.0.1.sh
+chmod +x /root/fizzup-v1.1.0.sh
 
 screen -S fizz
 
 # iki komuttan birisi ile başlatabilirsiiz.
-bash /root/fizzup-v1.0.1.sh
-sh /root/fizzup-v1.0.1.sh
+bash /root/fizzup-v1.1.0.sh
+sh /root/fizzup-v1.1.0.sh
 ```
 
 
