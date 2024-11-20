@@ -19,7 +19,11 @@
 # dosya izinlerini verelim
 chmod +x /root/fizzup-v1.1.0.sh
 
+# yeni screen açma kodu
 screen -S fizz
+
+# screen'e geri dönme kodu
+screen -r fizz
 
 # iki komuttan birisi ile başlatabilirsiiz.
 bash /root/fizzup-v1.1.0.sh
