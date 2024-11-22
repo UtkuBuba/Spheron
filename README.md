@@ -17,7 +17,7 @@
 
 ```console
 # dosya izinlerini verelim
-chmod +x /root/fizzup-v1.1.0.sh
+chmod +x /root/fizzup-v1.1.1.sh
 
 # yeni screen açma kodu
 screen -S fizz
@@ -26,8 +26,8 @@ screen -S fizz
 screen -r fizz
 
 # iki komuttan birisi ile başlatabilirsiiz.
-bash /root/fizzup-v1.1.0.sh
-sh /root/fizzup-v1.1.0.sh
+bash /root/fizzup-v1.1.1.sh
+sh /root/fizzup-v1.1.1.sh
 ```
 
 
