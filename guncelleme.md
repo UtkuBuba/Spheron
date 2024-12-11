@@ -2,7 +2,7 @@ fizz.spheron.network adresinden yeni dosyayo indirip sftp üzerinden sunucuya at
 
 ## dosya izinlerini verelim
 ```
-chmod +x /root/fizzup-v1.1.1.sh
+chmod +x /root/fizzup.sh
 ```
 
 ## screen'e geri dönme kodu
@@ -11,5 +11,5 @@ screen -r fizz
 ```
 ## iki komuttan birisi ile başlatabilirsiiz.
 ```
-bash /root/fizzup-v1.1.1.sh
+bash /root/fizzup.sh
 ```
